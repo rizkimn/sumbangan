@@ -1,12 +1,26 @@
 <?php
 
-$data = [];
+$data  = [];
+$total = 0;
 
 function getAll() {
   return $data = json_decode(file_get_contents('data.json'), true);
 }
 
 $data = getAll();
+
+foreach($data as $d) {
+  $total += $d["Sumbangan"];
+}
+
+function rupiah($angka){
+	
+	$hasil_rupiah = "Rp " . number_format($angka,2,',','.');
+	return $hasil_rupiah;
+ 
+}
+
+$total = rupiah($total);
 
 if(isset($_POST['q'])) {
   $query = [];
@@ -37,7 +51,7 @@ if(isset($_POST['getall'])) {
 
   <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 
-  <title>Sumbangan X</title>
+  <title>Terima Kasih Calon Penghuni Surga :)</title>
   
   <style>
     * {
@@ -175,6 +189,8 @@ if(isset($_POST['getall'])) {
     </div>
     <div class="custom-table-wrapper">
       <h3>Nama-Nama Donatur</h3>
+      <h4>Total Donasi Terkumpul : <?= $total ?></h4>
+      <br>
       <div class="custom-table">
         <?php foreach($data as $n => $i): ?>
         <ul class="list-items">
