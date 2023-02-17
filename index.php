@@ -25,7 +25,7 @@ $total = rupiah($total);
 if(isset($_POST['q'])) {
   $query = [];
   foreach($data as $k => $i) {
-    if($_POST['q'] == $k || strtolower($_POST['q']) == strtolower($i["Nama"] || strtolower($_POST['q'] == strtolower($_POST["Kelas"])))) {
+    if($_POST['q'] == $k || strtolower($_POST['q']) == strtolower($i["Nama"]) || strtolower($_POST['q']) == strtolower($_POST["Kelas"])) {
       $query[$k] = $i;
     }
   }
