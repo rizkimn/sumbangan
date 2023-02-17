@@ -1,314 +1,527 @@
 {
    "0x01": {
       "Nama": "Nanang",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 2"
    },
    "0x02": {
       "Nama": "Wira",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 3"
    },
    "0x03": {
       "Nama": "Alan",
-      "Sumbangan": 40000
+      "Sumbangan": 40000,
+      "Kelas": "IF 4"
    },
    "0x04": {
-      "Nama": "Hidayah",
-      "Sumbangan": 100000
+      "Nama": "DB",
+      "Sumbangan": 100000,
+      "Kelas": "IF 3"
    },
    "0x05": {
       "Nama": "Aji",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 3"
    },
    "0x06": {
       "Nama": "Hamba Allah",
-      "Sumbangan": 100000
+      "Sumbangan": 100000,
+      "Kelas": "IF X"
    },
    "0x07": {
-      "Nama": "K Rafly",
-      "Sumbangan": 50000
+      "Nama": "Raff",
+      "Sumbangan": 50000,
+      "Kelas": "IF 3"
    },
    "0x08": {
       "Nama": "Ramzi",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 3"
    },
    "0x09": {
       "Nama": "Angga",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 4"
    },
    "0x10": {
       "Nama": "Nifken",
-      "Sumbangan": 30000
+      "Sumbangan": 30000,
+      "Kelas": "IF 3"
    },
    "0x11": {
       "Nama": "Yunan Maulana",
-      "Sumbangan": 150000
+      "Sumbangan": 150000,
+      "Kelas": "IF 4"
    },
    "0x12": {
       "Nama": "Thariq",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 4"
    },
    "0x13": {
       "Nama": "Sultan",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 4"
    },
    "0x14": {
       "Nama": "Hendra",
-      "Sumbangan": 25000
+      "Sumbangan": 25000,
+      "Kelas": "IF 2"
    },
    "0x15": {
       "Nama": "Deyan",
-      "Sumbangan": 25000
+      "Sumbangan": 25000,
+      "Kelas": "IF 4"
    },
    "0x16": {
       "Nama": "Gufran",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 2"
    },
    "0x17": {
       "Nama": "Abyan",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 2"
    },
    "0x18": {
       "Nama": "Arie",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 2"
    },
    "0x19": {
       "Nama": "Ardi",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
    },
    "0x20": {
       "Nama": "Riska Latif",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
    },
    "0x21": {
       "Nama": "Idawati umagapi",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
    },
    "0x22": {
       "Nama": "Andini Tidore",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
    },
    "0x23": {
       "Nama": "Fathur",
-      "Sumbangan": 14000
+      "Sumbangan": 14000,
+      "Kelas": "IF 1"
    },
    "0x24": {
       "Nama": "Imam Afwan",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
    },
    "0x25": {
       "Nama": "Mitha",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
    },
    "0x26": {
       "Nama": "Rani",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
    },
    "0x27": {
       "Nama": "Julfairia",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
    },
    "0x28": {
       "Nama": "Resty",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 1"
    },
    "0x29": {
       "Nama": "Indah",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
    },
    "0x30": {
       "Nama": "Dea",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 2"
    },
    "0x31": {
       "Nama": "Sani",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 2"
    },
    "0x32": {
       "Nama": "Mufadalifa",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 2"
    },
    "0x33": {
       "Nama": "Adi",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 3"
    },
    "0x34": {
       "Nama": "Bellin",
-      "Sumbangan": 100000
+      "Sumbangan": 100000,
+      "Kelas": "IF 2"
    },
    "0x35": {
       "Nama": "Ifa",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 1"
    },
    "0x36": {
       "Nama": "Dede",
-      "Sumbangan": 30000
+      "Sumbangan": 30000,
+      "Kelas": "IF 4"
    },
    "0x37": {
       "Nama": "Annisa",
-      "Sumbangan": 60000
+      "Sumbangan": 60000,
+      "Kelas": "IF 2"
    },
    "0x38": {
       "Nama": "Reiki",
-      "Sumbangan": 30000
+      "Sumbangan": 30000,
+      "Kelas": "IF 2"
    },
    "0x39": {
       "Nama": "Lisa",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 1"
    },
    "0x40": {
       "Nama": "Chanda",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
    },
    "0x41": {
       "Nama": "Destitha",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
    },
    "0x42": {
       "Nama": "Ririn",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
    },
    "0x43": {
       "Nama": "Puput",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
    },
    "0x44": {
       "Nama": "Iyan",
-      "Sumbangan": 25000
+      "Sumbangan": 25000,
+      "Kelas": "IF 2"
    },
    "0x45": {
       "Nama": "Ifa",
-      "Sumbangan": 25000
+      "Sumbangan": 25000,
+      "Kelas": "IF 2"
    },
    "0x46": {
       "Nama": "Jihan",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 2"
    },
    "0x47": {
       "Nama": "Fiya",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 3"
    },
    "0x48": {
       "Nama": "Sakti",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 3"
    },
    "0x49": {
       "Nama": "Deby",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 4"
    },
    "0x50": {
-      "Nama": "Khalid",
-      "Sumbangan": 20000
+      "Nama": "Halid",
+      "Sumbangan": 20000,
+      "Kelas": "IF 3"
    },
    "0x51": {
       "Nama": "Panca",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 3"
    },
    "0x52": {
       "Nama": "Julita",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 3"
    },
    "0x53": {
       "Nama": "Nurul Safitri",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
    },
    "0x54": {
       "Nama": "Fakih",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 2"
    },
    "0x55": {
       "Nama": "Glen",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 4"
    },
    "0x56": {
       "Nama": "Zidan",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 3"
    },
    "0x57": {
       "Nama": "Susilo",
-      "Sumbangan": 100000
+      "Sumbangan": 100000,
+      "Kelas": "IF 1"
    },
    "0x58": {
       "Nama": "Magfirah",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 4"
    },
    "0x59": {
       "Nama": "Refki afdillah",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 4"
    },
    "0x60": {
       "Nama": "Gunawan",
-      "Sumbangan": 10000
+      "Sumbangan": 10000,
+      "Kelas": "IF 4"
    },
    "0x61": {
       "Nama": "Fauzan",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 3"
    },
    "0x62": {
       "Nama": "Ilham",
-      "Sumbangan": 15000
+      "Sumbangan": 15000,
+      "Kelas": "IF 3"
    },
    "0x63": {
       "Nama": "Delya",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 4"
    },
    "0x64": {
       "Nama": "Nabil",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 4"
    },
    "0x65": {
       "Nama": "Oki",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 4"
    },
    "0x66": {
       "Nama": "Koko",
-      "Sumbangan": 10000
+      "Sumbangan": 10000,
+      "Kelas": "IF 4"
    },
    "0x67": {
       "Nama": "Lila Faqila",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 4"
    },
    "0x68": {
       "Nama": "Indri",
-      "Sumbangan": 25000
+      "Sumbangan": 25000,
+      "Kelas": "IF 4"
    },
    "0x69": {
       "Nama": "Wahyu",
-      "Sumbangan": 25000
+      "Sumbangan": 25000,
+      "Kelas": "IF 4"
    },
    "0x70": {
       "Nama": "Safira",
-      "Sumbangan": 25000
+      "Sumbangan": 25000,
+      "Kelas": "IF 4"
    },
    "0x71": {
       "Nama": "Kibos",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 3"
    },
    "0x72": {
       "Nama": "Udin",
-      "Sumbangan": 20000
+      "Sumbangan": 20000,
+      "Kelas": "IF 3"
    },
    "0x74": {
       "Nama": "Dea Revananda",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 1"
    },
    "0x75": {
       "Nama": "Nir",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 1"
    },
    "0x76": {
       "Nama": "Taken",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 3"
    },
    "0x77": {
       "Nama": "Nurafi",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 1"
    },
    "0x78": {
       "Nama": "Jasiska",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 1"
    },
    "0x79": {
       "Nama": "Haydar Qisyam",
-      "Sumbangan": 50000
+      "Sumbangan": 50000,
+      "Kelas": "IF 1"
+   },
+   "0x80": {
+      "Nama": "Ferdi",
+      "Sumbangan": 25000,
+      "Kelas": "IF 3"
+   },
+   "0x81": {
+      "Nama": "Chandra",
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
+   },
+   "0x82": {
+      "Nama": "Radika",
+      "Sumbangan": 50000,
+      "Kelas": "IF 2"
+   },
+   "0x83": {
+      "Nama": "Pato",
+      "Sumbangan": 25000,
+      "Kelas": "IF 1"
+   },
+   "0x84": {
+      "Nama": "Indah",
+      "Sumbangan": 20000,
+      "Kelas": "IF 3"
+   },
+   "0x85": {
+      "Nama": "Juliyana",
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
+   },
+   "0x86": {
+      "Nama": "Windaryati",
+      "Sumbangan": 50000,
+      "Kelas": "IF 2"
+   },
+   "0x87": {
+      "Nama": "Rini Idris",
+      "Sumbangan": 30000,
+      "Kelas": "IF 1"
+   },
+   "0x88": {
+      "Nama": "Lisa",
+      "Sumbangan": 20000,
+      "Kelas": "IF 4"
+   },
+   "0x89": {
+      "Nama": "Ikram",
+      "Sumbangan": 20000,
+      "Kelas": "IF 3"
+   },
+   "0x90": {
+      "Nama": "Ai",
+      "Sumbangan": 20000,
+      "Kelas": "IF 2"
+   },
+   "0x91": {
+      "Nama": "Rizaldi",
+      "Sumbangan": 20000,
+      "Kelas": "IF 2"
+   },
+   "0x92": {
+      "Nama": "Bahtiar",
+      "Sumbangan": 25000,
+      "Kelas": "IF 2"
+   },
+   "0x93": {
+      "Nama": "Haikal",
+      "Sumbangan": 25000,
+      "Kelas": "IF 2"
+   },
+   "0x94": {
+      "Nama": "Ningsi",
+      "Sumbangan": 20000,
+      "Kelas": "IF 4"
+   },
+   "0x95": {
+      "Nama": "Fitri",
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
+   },
+   "0x96": {
+      "Nama": "Chairunnisa",
+      "Sumbangan": 20000,
+      "Kelas": "IF 2"
+   },
+   "0x97": {
+      "Nama": "Nurfahira",
+      "Sumbangan": 20000,
+      "Kelas": "IF 2"
+   },
+   "0x98": {
+      "Nama": "Diva",
+      "Sumbangan": 20000,
+      "Kelas": "IF 2"
+   },
+   "0x99": {
+      "Nama": "Fara",
+      "Sumbangan": 20000,
+      "Kelas": "IF 2"
+   },
+   "1x00": {
+      "Nama": "Safina",
+      "Sumbangan": 20000,
+      "Kelas": "IF 2"
+   },
+   "1x01": {
+      "Nama": "Dina",
+      "Sumbangan": 20000,
+      "Kelas": "IF 2"
+   },
+   "1x02": {
+      "Nama": "Vaiz",
+      "Sumbangan": 50000,
+      "Kelas": "IF 2"
+   },
+   "1x03": {
+      "Nama": "Carolina",
+      "Sumbangan": 20000,
+      "Kelas": "IF 1"
+   },
+   "1x04": {
+      "Nama": "Cendot",
+      "Sumbangan": 50000,
+      "Kelas": "IF 3"
+   },
+   "1x05": {
+      "Nama": "Agathia",
+      "Sumbangan": 50000,
+      "Kelas": "IF 1"
+   },
+   "1x06": {
+      "Nama": "Lucky",
+      "Sumbangan": 50000,
+      "Kelas": "IF 1"
    }
 }

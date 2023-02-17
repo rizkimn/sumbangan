@@ -144,8 +144,13 @@ if(isset($_POST['getall'])) {
       font-weight: 500;
     }
 
+    li.class {
+      margin: 0 5px;
+      width: 80px;
+      text-align: center;
+    }
+
     li.name {
-      margin-left: 5px;
       width: 100%;
     }
 
@@ -195,6 +200,7 @@ if(isset($_POST['getall'])) {
         <?php foreach($data as $n => $i): ?>
         <ul class="list-items">
           <li class="list-item no"><?= $n ?></li>
+          <li class="list-item class"><?= $i["Kelas"] ?></li>
           <li class="list-item name"><?= $i["Nama"] ?></li>
         </ul>
         <?php endforeach; ?>
