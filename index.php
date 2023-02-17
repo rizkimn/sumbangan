@@ -187,7 +187,7 @@ if(isset($_POST['getall'])) {
   <div class="container">
     <div class="search-btn">
       <form method="POST">
-        <input type="text" name="q" id="q" placeholder="Cari Nama atau Nomor Urut">
+        <input type="text" name="q" id="q" placeholder="Cari Nomor Urut, Nama, Kelas">
         <button type="submit"><i class="bx bx-search"></i></button>
         <button type="submit" name="getall"><i class="bx bx-refresh"></i></button>
       </form>
